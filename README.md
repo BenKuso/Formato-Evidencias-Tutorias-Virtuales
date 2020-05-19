@@ -19,15 +19,22 @@ Ingresa a [Overleaf](https://www.overleaf.com/) y crea una cuenta (puedes hacerl
 
 
 ### 2 - Obtener la plantilla
+
 Abre el enlace de la [plantilla](https://www.overleaf.com/read/smxtdmkdqdgx).
+
 Regresa al menú de tus proyectos, donde verás la plantilla.
+
 ![volver](https://raw.githubusercontent.com/BenKuso/Formato-Evidencias-Tutorias-Virtuales/master/images/back.png)
 
 ### 3 - Copiar proyecto para poder editar
 Notarás que posees la plantilla en una vista protegida no editable. Ubica la sección de acciones en el proyecto y presiona "copy".  Esto agregará un nuevo proyecto llamado "Formato Tutorias (Copy)" que te pertenece, este ya lo puedes editar.
+
 ![copiar](https://raw.githubusercontent.com/BenKuso/Formato-Evidencias-Tutorias-Virtuales/master/images/copiar.png)
+
 Por último, puedes renombrar este archivo. Abre el archivo (dando click sobre él). Verás que arriba del todo tiene su nombre, selecciona el lápiz que está al final y pon un nombre con el que lo ubiques. 
+
 ![renombrar](https://raw.githubusercontent.com/BenKuso/Formato-Evidencias-Tutorias-Virtuales/master/images/renombrar.png)
+
 ![nombrar](https://raw.githubusercontent.com/BenKuso/Formato-Evidencias-Tutorias-Virtuales/master/images/nombrar.png)
 
 ¡Listo!
@@ -49,7 +56,9 @@ A partir de la línea 69 tienes los datos de tus tutorados, cuando sean muchos p
 
 Tus evidencias serán imágenes, capturas de pantalla y demás. Para colocar una imágen, te he dejado preparado el comando \img.
 En el menú de la izquierda ubica la carpeta llamada "Evidencias", da click derecho sobre ella y selecciona "Upload File", arrastra ahí todas tus imágenes.
+
 ![evidencias](https://raw.githubusercontent.com/BenKuso/Formato-Evidencias-Tutorias-Virtuales/master/images/evidencias.png)
+
 Dirígete al final del documento, antes de la etiqueta de fin de documento (si no has modificado la plantilla, ve a la línea 124).
 Aquí puedes empezar a poner imágenes de la siguiente forma
 \img{nombredetuimagen}{tamaño}{descripción}
@@ -64,4 +73,3 @@ En la descripción, si lo deseas, he preparado un comando (\link) para que pueda
 
 
 Si tienes preguntas, puedes contactar conmigo en la pestaña [Issues](https://github.com/BenKuso/Formato-Evidencias-Tutorias-Virtuales/issues)
-
