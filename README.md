@@ -72,4 +72,16 @@ En la descripción, si lo deseas, he preparado un comando (\link) para que pueda
 ![imagen](https://raw.githubusercontent.com/BenKuso/Formato-Evidencias-Tutorias-Virtuales/master/images/imagen.png)
 
 
+## Por Último
+
+###Compilar
+
+Para compilar tu documento (generar el archivo pdf) sólo preciona las teclas Ctrl+Enter o presiona el botón verde que dice "Recompile"
+
+###Descargar
+
+Descarga tu documento en pdf presionando el botón de descarga ubicado sobre la visualización del pdf
+
+![descargar](https://raw.githubusercontent.com/BenKuso/Formato-Evidencias-Tutorias-Virtuales/master/images/descargar.png)
+
 Si tienes preguntas, puedes contactar conmigo en la pestaña [Issues](https://github.com/BenKuso/Formato-Evidencias-Tutorias-Virtuales/issues)
