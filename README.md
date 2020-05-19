@@ -43,7 +43,7 @@ Ubica la línea 61 del documento, aquí empiezan las variables, aquellas no señ
 ![variables](https://raw.githubusercontent.com/BenKuso/Formato-Evidencias-Tutorias-Virtuales/master/images/variables.png)
 
 Los datos se deben encontrar contenidos entre dos llaves, así que no las borres. La fecha tiene por defecto el comando \today que coloca la fecha actual al momento de compilar, pero puedes poner lo que gustes.
-A partir de la línea 69 tienes los datos de tus tutorados, cuando sean muchos puedes poner los nombres o ID's en lista y recuerda separar uno de otro con \\ como si fueran comas
+A partir de la línea 69 tienes los datos de tus tutorados, cuando sean muchos puedes poner los nombres o ID's en lista y recuerda separar uno de otro con \\\\ como si fueran comas
 
 ### Poniendo Imágenes
 
